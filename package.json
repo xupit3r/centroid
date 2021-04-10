@@ -1,0 +1,15 @@
+{
+  "name": "centroid",
+  "version": "1.0.0",
+  "description": "a super simple package for finding the \"center\" of a set of points",
+  "main": "lib/centroid.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "keywords": [
+    "centroid",
+    "center"
+  ],
+  "author": "Joe D'Alessandro",
+  "license": "ISC"
+}
