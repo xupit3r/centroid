@@ -10,6 +10,10 @@
     "centroid",
     "center"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xupit3r/centroid.git"
+  },
   "author": "Joe D'Alessandro",
   "license": "ISC",
   "devDependencies": {
