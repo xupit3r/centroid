@@ -4,12 +4,16 @@
   "description": "a super simple package for finding the \"center\" of a set of points",
   "main": "lib/centroid.js",
   "scripts": {
-    "test": "node run-tests.js"
+    "test": "mocha"
   },
   "keywords": [
     "centroid",
     "center"
   ],
   "author": "Joe D'Alessandro",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
 }
