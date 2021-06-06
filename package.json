@@ -1,18 +1,19 @@
 {
-  "name": "centroid",
+  "name": "centroider",
   "version": "1.0.0",
   "description": "a super simple package for finding the \"center\" of a set of points",
-  "main": "lib/centroid.js",
+  "main": "lib/centroider.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [
     "centroid",
-    "center"
+    "center",
+    "n-dimensional"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xupit3r/centroid.git"
+    "url": "https://github.com/xupit3r/centroider.git"
   },
   "author": "Joe D'Alessandro",
   "license": "ISC",

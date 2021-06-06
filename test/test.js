@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const centroid = require('../lib/centroid.js');
+const centroid = require('../lib/centroider.js');
 
 describe('Centroid', () => {
   it('should find the center of a group of 2-D points', () => {
